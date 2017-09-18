@@ -1,6 +1,4 @@
 # inversion
-All your files must be *.jpg due to limiations in PIL.
-
 Use the -I argument to specify input directory of images.
 Use the -O argument to specify output directory of images.
 
